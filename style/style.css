@@ -17,11 +17,20 @@ body{
     background-color: #e8e8e8;
 }
 
-.Parceiros{
+.parceiros{
+    color:#e8e8e8;
+    background-color: #30475e;
+}
+.servicos{
     color:#30475e;
     background-color: #e8e8e8;
 }
 
 .margin{
     padding-bottom: 50px;
+}
+
+.bg_footer{
+    background-color:#222831;
+    color: #e8e8e8;
 }
