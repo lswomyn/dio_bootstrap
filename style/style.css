@@ -1,0 +1,18 @@
+root{
+    --blue: #30475e;
+    --red: #f05454;
+    --lgray:#e8e8e8;
+    --dark-blue:#222831;
+}
+
+.navbar {
+    background-color: var(--red);
+}
+
+.quem-somos{
+    background-color: #e8e8e8;
+}
+
+.margin{
+    padding-top: 30px;
+}
