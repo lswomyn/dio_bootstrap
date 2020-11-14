@@ -5,14 +5,23 @@ root{
     --dark-blue:#222831;
 }
 
+body{
+    font: 20px, Arial, sans-serif;
+}
 .navbar {
     background-color: var(--red);
 }
 
 .quem-somos{
+    color:#30475e;
+    background-color: #e8e8e8;
+}
+
+.Parceiros{
+    color:#30475e;
     background-color: #e8e8e8;
 }
 
 .margin{
-    padding-top: 30px;
+    padding-bottom: 50px;
 }
